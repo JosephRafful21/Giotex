@@ -1,0 +1,24 @@
+1-Mejora en el site de sistemas los switches,moden etc deben estar en un cuarto cerrado para mejor cuidado y seguridad.
+2-Instalación de un rack para las cámaras donde puedan estar en orden y tengan su propia seguridad.
+3-Instalación de cámaras de seguridad en puntos ciegos de la empresa
+4-Mejores equipos de computo ya que se ha notado que al encender las maquinas estas son muy lentas y retrasan la productividad.
+5-Instalación de cableado para telefonia en el area de acabado.
+6-Un cuarto o lugar asignado para desechar los equipos de computo, mouse, teclado etc. para no dejarlos en cualquier parte de la empresa.
+7-Actualización del inventario fisico de los equipos
+8-Formatos para tener un control de las compras de los equipos de computo.
+9-Un estante dentro del SITE para tener un lugar donde guardar las carpetas de las bitacoras de los usuarios,equipos de baja, soporte de mantenimiento, cambio de refacciones etc.
+10-Cotización de cableado de red para telefonia en planta B
+11- Cambio del serivor NAS debido a que la empresa a crecido demasiado y se queda corto en memoria de almacenaje
+12-Mejora en el cableado estructurado.
+13-Licenciamiento de equipos de computo.
+
+
+
+
+
+------------------PROYECTOS E IMPLEMENTACIONES------------------------
+
+
+
+
+
